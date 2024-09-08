@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": ".venv",
+			"path": "../../Desktop/Project/testaudio/.venv"
+		},
+		{
+			"name": "Video_translation",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
